@@ -1,0 +1,23 @@
+﻿Brain Vision Data Exchange Header File Version 1.0
+; NeurOne 24-bit data format to GDR format conversion. Copyright Bittium Biosignals Ltd
+
+[Common infos]
+Codepage=UTF-8
+DataFile=GammaTE.eeg
+MarkerFile=GammaTE.vmrk
+DataFormat=BINARY
+DataOrientation=MULTIPLEXED
+DataType=TIMEDOMAIN
+NumberOfChannels=7
+SamplingInterval=1000
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+UseBigEndianOrder=NO
+[Channel Infos]
+Ch1=C3,,0.001,µV
+Ch2=C4,,0.001,µV
+Ch3=P3,,0.001,µV
+Ch4=P4,,0.001,µV
+Ch5=Fz,,0.001,µV
+Ch6=Cz,,0.001,µV
+Ch7=Pz,,0.001,µV
