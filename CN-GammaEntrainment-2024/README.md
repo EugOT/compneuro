@@ -10,7 +10,8 @@ The effect on the brain was measured by EEG, using only a few electrodes.
 
 Post-processing of the raw data was done with the attached python notebook.
 
+NOTE: the link below doesn't work; I am missing how to specify the branch of the notebook to be opened.
 
-My Notebook - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EugOT/compneuro/CN-GammaEntrainment-2024/blob/tEdwald/CN-GammaEntrainment.ipynb)
+My Notebook - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]  # (https://colab.research.google.com/github/EugOT/compneuro/CN-GammaEntrainment-2024/blob/tEdwald/CN-GammaEntrainment.ipynb)
 
 Link to the presentation for January 28th: 
